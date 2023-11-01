@@ -24,7 +24,6 @@ If the turtle collides with a car, it's game over, and the game stops.
    <br>
     <li>Press the "ESC" key to exit the game.</li>
   </ol>
-
  <h2>Game Logic :</h2>
     <p>
       The turtle can only move forward, not backward, left, or right. Cars are
@@ -33,4 +32,8 @@ If the turtle collides with a car, it's game over, and the game stops.
       screen, you level up, and the car speed increases. A collision between the
       turtle and a car results in a game over.
     </p>
+    <h2>Game :</h2>
+    <img  width=300px height=300px src="https://github.com/rishiiiidha/turtle-crossing-game/assets/126899168/75caa8a6-97ac-4550-b41b-5ed2a35b5387" &nbsp;>
+    <span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+    <img width=300px height=300px src="https://github.com/rishiiiidha/turtle-crossing-game/assets/126899168/42de3e92-99de-45ba-9e9d-b784a785dc3b">
 
