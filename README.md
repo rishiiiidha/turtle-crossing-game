@@ -33,7 +33,7 @@ If the turtle collides with a car, it's game over, and the game stops.
       turtle and a car results in a game over.
     </p>
     <h2>Game :</h2>
-    <img  width=300px height=300px src="https://github.com/rishiiiidha/turtle-crossing-game/assets/126899168/75caa8a6-97ac-4550-b41b-5ed2a35b5387" &nbsp;>
+    <img  width=300px height=300px src="/turtle-crossing-game/img1.png" &nbsp;>
     <span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
-    <img width=300px height=300px src="https://github.com/rishiiiidha/turtle-crossing-game/assets/126899168/42de3e92-99de-45ba-9e9d-b784a785dc3b">
+    <img width=300px height=300px src="/turtle-crossing-game/img2.png">
 
