@@ -32,8 +32,8 @@ If the turtle collides with a car, it's game over, and the game stops.
       screen, you level up, and the car speed increases. A collision between the
       turtle and a car results in a game over.
     </p>
-    <h2>Game :</h2>
-    <img  width=300px height=300px src="/turtle-crossing-game/img1.png" &nbsp;>
+<!--     <h2>Game :</h2> -->
+<!--     <img  width=300px height=300px src="/turtle-crossing-game/img1.png" &nbsp;>
     <span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
-    <img width=300px height=300px src="/turtle-crossing-game/img2.png">
+    <img width=300px height=300px src="/turtle-crossing-game/img2.png"> -->
 
