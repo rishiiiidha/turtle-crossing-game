@@ -22,7 +22,6 @@ If the turtle collides with a car, it's game over, and the game stops.
 <ol>
     <li>Press the "Up" key to move the turtle forward.</li>
    <br>
-    <li>Press the "ESC" key to exit the game.</li>
   </ol>
  <h2>Game Logic :</h2>
     <p>
